@@ -24,6 +24,6 @@ public class Main {
 		sj你好 gooklucky
 		sj你好 gooklucky
 		sj你好 gooklucky
-	
+	2222222222222222222222222222
 	}
 }
