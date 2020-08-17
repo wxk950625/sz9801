@@ -21,5 +21,9 @@ public class Main {
 		sj你好 gooklucky
 		sj你好 gooklucky
 		sj你好 gooklucky
+		sj你好 gooklucky
+		sj你好 gooklucky
+		sj你好 gooklucky
+	
 	}
 }
