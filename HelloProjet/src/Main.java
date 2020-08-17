@@ -19,5 +19,7 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("HelloWorld!");
 		sj你好 gooklucky
-    }
+		sj你好 gooklucky
+		sj你好 gooklucky
+	}
 }
